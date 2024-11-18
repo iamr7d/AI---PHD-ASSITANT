@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { clsx } from 'clsx';
+import clsx from 'clsx'; // Removed curly brackets
 import ProfessorCard from '../ProfessorCard';
 import ProfileMatch from '../ProfileMatch';
 import { 
